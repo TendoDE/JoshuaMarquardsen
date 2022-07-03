@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoshuaMarquardsen
 - 👀 I’m interested at any Coding stuff
-- 🌱 I’m currently learning Vue & Bootstrap, C#
+- 🌱 I’m currently learning Vue, Bootstrap & TypeScript
 - 📫 How to reach me: (Discord: Tendo#0876) (E-Mail: jmarquardsen@t-online.de)
 
 <!---
