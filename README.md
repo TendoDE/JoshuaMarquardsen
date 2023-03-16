@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @JoshuaMarquardsen
 - 👀 I’m interested at any Coding stuff (Front-& Backend)
-- 🌱 I’m currently learning SQL/MongoDB and any Database stuff, C/C# & TypeScript
+- 🌱 I’m currently learning SQL/MongoDB and any Database stuff & C/C#
 - 📫 How to reach me: (E-Mail: jmarquardsen@t-online.de)
